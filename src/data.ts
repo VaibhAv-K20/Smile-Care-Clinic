@@ -48,7 +48,7 @@ export const DOCTORS: Doctor[] = [
     specialization: "Dental Implants, Full-Mouth Reconstruction, and Dental Crowns",
     bio: "Dr. Amit Deshmukh is a highly renowned prosthodontist in Central India. He has successfully placed over 5,000 dental implants and specializes in restoring complex, severely worn dentition. He is known for his warm dental chairside manner and precision.",
     philosophy: "I believe that restoring a smile is a blend of scientific precision and artistic craftsmanship. Every patient deserves a solution that looks natural and functions flawlessly.",
-    image: "/images/dr_amit_deshmukh_1782905869285.jpg",
+    image: "/Smile-Care-Clinic/images/doctor-male.jpg",
     availability: "Mon - Sat: 10:00 AM - 2:00 PM, 5:00 PM - 8:30 PM",
     whatsappMessage: "Hi Dr. Amit, I want to book an implant/prosthodontic consultation."
   },
@@ -61,7 +61,7 @@ export const DOCTORS: Doctor[] = [
     specialization: "Clear Aligners, Invisible Braces, Pediatric Jaw Growth Modification, and Cosmetic Veneers",
     bio: "Dr. Neha Sharma is a certified Invisalign orthodontist passionate about creating perfect, symmetrical smiles. Having transformed over 2,000 smiles across Nagpur, she specializes in modern aesthetic aligners and gentle preventive pediatric dental procedures.",
     philosophy: "A beautiful smile changes how you see yourself, and how the world sees you. My mission is to deliver modern, pain-free orthodontic treatment that easily fits your lifestyle.",
-    image: "/images/dr_neha_sharma_1782905889053.jpg",
+    image: "/Smile-Care-Clinic/images/doctor-female.jpg",
     availability: "Mon - Sat: 11:30 AM - 4:00 PM, 6:00 PM - 9:00 PM",
     whatsappMessage: "Hi Dr. Neha, I want to inquire about Invisalign / Smile designing."
   }

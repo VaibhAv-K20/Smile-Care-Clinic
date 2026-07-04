@@ -292,7 +292,7 @@ export default function App() {
         {/* Background Image overlay */}
         <div className="absolute inset-0 z-0 opacity-15">
           <img 
-            src="/images/clinic_hero_1782905854797.jpg" 
+            src="/Smile-Care-Clinic/images/clinic.jpg" 
             alt="Nagpur Smile Care Clinic reception" 
             className="w-full h-full object-cover filter sepia-[20%] contrast-[95%]"
             referrerPolicy="no-referrer"
@@ -522,7 +522,7 @@ export default function App() {
             <div className="grid lg:grid-cols-12 gap-8 items-center">
               <div className="lg:col-span-5 relative">
                 <img 
-                  src="/images/dental_service_thumbnail_1782905902584.jpg" 
+                  src="/Smile-Care-Clinic/images/happy-patient.jpg" 
                   alt="High quality sterile dental care tools" 
                   className="w-full h-auto object-cover shadow-lg border border-white/10"
                   style={{ borderRadius: "24px 4px 24px 4px" }}
